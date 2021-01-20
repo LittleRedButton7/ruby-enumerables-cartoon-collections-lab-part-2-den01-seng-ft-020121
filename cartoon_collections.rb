@@ -31,7 +31,6 @@ def find_valid_calls(planeteer_calls)
     element == valid_calls
       puts valid_calls
     end
-    i += 1
   end
 end
 
